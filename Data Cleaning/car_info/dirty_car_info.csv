@@ -1,0 +1,15 @@
+id,make,model,year,num_of_doors,compression_ratio,fuel_type
+1,Toyta,Corolla,2015,4,10.5,Gasoline
+2,Honda,Civic,,,10.3,Petrol
+3,Ford,Focus,2018,4,,gasoline
+4,Chevy,Malibu,two thousand nineteen,4,10.0,gas
+5,Honda,Accord,2017,Four,9.8,
+6,Toyota,Camry,2016,,11.0,Petrol
+7,Nissan,Sentra,2019,4,10.1,Gasoline
+8,BMW,3-Series,2016,4,10.6,
+9,toyota,corolla,2015,4,10.5,gasoline
+10,Ford,F-150,2020,,9.5,Diesel
+11,,Model S,2021,4,10.0,Electric
+12,Tesla,Model S,2021,4,10.0,Electric
+13,Chevrolet,Malibu,2019,4,10.0,Gasoline
+14,Ford,Focus,2018,4,,gasoline
